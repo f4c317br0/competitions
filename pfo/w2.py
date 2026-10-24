@@ -1,0 +1,1 @@
+print(input().lstrip('9').rstrip('9').count('9'))
